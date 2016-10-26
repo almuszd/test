@@ -17,6 +17,7 @@
 		CC1A19161DC126160059F09B /* testUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = CC1A19151DC126160059F09B /* testUITests.m */; };
 		CC1A19251DC12DD50059F09B /* NewTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CC1A19241DC12DD50059F09B /* NewTableViewController.m */; };
 		CC1A19281DC130290059F09B /* AnotherTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CC1A19271DC130290059F09B /* AnotherTableViewController.m */; };
+		CC1A192B1DC131760059F09B /* Data.m in Sources */ = {isa = PBXBuildFile; fileRef = CC1A192A1DC131760059F09B /* Data.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		CC1A19241DC12DD50059F09B /* NewTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewTableViewController.m; sourceTree = "<group>"; };
 		CC1A19261DC130290059F09B /* AnotherTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnotherTableViewController.h; sourceTree = "<group>"; };
 		CC1A19271DC130290059F09B /* AnotherTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnotherTableViewController.m; sourceTree = "<group>"; };
+		CC1A19291DC131760059F09B /* Data.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Data.h; sourceTree = "<group>"; };
+		CC1A192A1DC131760059F09B /* Data.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Data.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				CC1A19241DC12DD50059F09B /* NewTableViewController.m */,
 				CC1A19261DC130290059F09B /* AnotherTableViewController.h */,
 				CC1A19271DC130290059F09B /* AnotherTableViewController.m */,
+				CC1A19291DC131760059F09B /* Data.h */,
+				CC1A192A1DC131760059F09B /* Data.m */,
 				CC1A18F91DC126160059F09B /* Main.storyboard */,
 				CC1A18FC1DC126160059F09B /* Assets.xcassets */,
 				CC1A18FE1DC126160059F09B /* LaunchScreen.storyboard */,
@@ -291,6 +296,7 @@
 				CC1A19281DC130290059F09B /* AnotherTableViewController.m in Sources */,
 				CC1A18F51DC126160059F09B /* AppDelegate.m in Sources */,
 				CC1A18F21DC126160059F09B /* main.m in Sources */,
+				CC1A192B1DC131760059F09B /* Data.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
