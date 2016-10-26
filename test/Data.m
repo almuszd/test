@@ -12,6 +12,8 @@
 
 -(void)Hi{
     
+    NSLog(@"");
+    
 }
 
 @end
